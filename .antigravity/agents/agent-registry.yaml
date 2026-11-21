@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-saudi-arabia-canal-and-intervention-historian
-  name: Saudi Arabia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-saudi-arabia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_sa_001
+    name: Saudi Arabia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_002
+    name: Saudi Arabia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_003
+    name: Saudi Arabia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_004
+    name: Saudi Arabia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_005
+    name: Saudi Arabia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_006
+    name: Saudi Arabia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_007
+    name: Saudi Arabia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_008
+    name: Saudi Arabia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_009
+    name: Saudi Arabia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_010
+    name: Saudi Arabia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_011
+    name: Saudi Arabia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_012
+    name: Saudi Arabia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_013
+    name: Saudi Arabia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_014
+    name: Saudi Arabia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_015
+    name: Saudi Arabia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_016
+    name: Saudi Arabia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_017
+    name: Saudi Arabia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_018
+    name: Saudi Arabia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_019
+    name: Saudi Arabia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_020
+    name: Saudi Arabia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_021
+    name: Saudi Arabia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_022
+    name: Saudi Arabia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_023
+    name: Saudi Arabia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_024
+    name: Saudi Arabia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_025
+    name: Saudi Arabia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_026
+    name: Saudi Arabia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_027
+    name: Saudi Arabia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_028
+    name: Saudi Arabia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_029
+    name: Saudi Arabia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_030
+    name: Saudi Arabia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_031
+    name: Saudi Arabia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_032
+    name: Saudi Arabia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_033
+    name: Saudi Arabia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_034
+    name: Saudi Arabia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_035
+    name: Saudi Arabia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_036
+    name: Saudi Arabia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_037
+    name: Saudi Arabia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_038
+    name: Saudi Arabia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_039
+    name: Saudi Arabia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_040
+    name: Saudi Arabia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_041
+    name: Saudi Arabia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_042
+    name: Saudi Arabia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_043
+    name: Saudi Arabia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_044
+    name: Saudi Arabia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_045
+    name: Saudi Arabia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_046
+    name: Saudi Arabia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_047
+    name: Saudi Arabia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_048
+    name: Saudi Arabia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_049
+    name: Saudi Arabia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_050
+    name: Saudi Arabia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_051
+    name: Saudi Arabia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_052
+    name: Saudi Arabia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_053
+    name: Saudi Arabia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_054
+    name: Saudi Arabia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_055
+    name: Saudi Arabia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_056
+    name: Saudi Arabia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_057
+    name: Saudi Arabia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_058
+    name: Saudi Arabia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_059
+    name: Saudi Arabia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_060
+    name: Saudi Arabia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_061
+    name: Saudi Arabia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_062
+    name: Saudi Arabia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_063
+    name: Saudi Arabia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_064
+    name: Saudi Arabia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_065
+    name: Saudi Arabia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_066
+    name: Saudi Arabia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_067
+    name: Saudi Arabia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_068
+    name: Saudi Arabia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_069
+    name: Saudi Arabia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_070
+    name: Saudi Arabia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_071
+    name: Saudi Arabia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_072
+    name: Saudi Arabia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_073
+    name: Saudi Arabia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_074
+    name: Saudi Arabia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_075
+    name: Saudi Arabia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_076
+    name: Saudi Arabia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_077
+    name: Saudi Arabia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_078
+    name: Saudi Arabia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_079
+    name: Saudi Arabia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_080
+    name: Saudi Arabia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_081
+    name: Saudi Arabia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_082
+    name: Saudi Arabia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_083
+    name: Saudi Arabia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_084
+    name: Saudi Arabia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_085
+    name: Saudi Arabia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_086
+    name: Saudi Arabia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_087
+    name: Saudi Arabia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_088
+    name: Saudi Arabia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_089
+    name: Saudi Arabia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_090
+    name: Saudi Arabia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_091
+    name: Saudi Arabia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_092
+    name: Saudi Arabia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_093
+    name: Saudi Arabia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_094
+    name: Saudi Arabia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_095
+    name: Saudi Arabia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_096
+    name: Saudi Arabia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_097
+    name: Saudi Arabia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_098
+    name: Saudi Arabia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_099
+    name: Saudi Arabia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_100
+    name: Saudi Arabia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_101
+    name: Saudi Arabia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_102
+    name: Saudi Arabia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_103
+    name: Saudi Arabia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_104
+    name: Saudi Arabia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_105
+    name: Saudi Arabia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_106
+    name: Saudi Arabia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_107
+    name: Saudi Arabia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_108
+    name: Saudi Arabia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_109
+    name: Saudi Arabia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_110
+    name: Saudi Arabia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_111
+    name: Saudi Arabia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_112
+    name: Saudi Arabia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_113
+    name: Saudi Arabia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_114
+    name: Saudi Arabia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_115
+    name: Saudi Arabia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_116
+    name: Saudi Arabia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_117
+    name: Saudi Arabia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_118
+    name: Saudi Arabia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_119
+    name: Saudi Arabia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_120
+    name: Saudi Arabia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_121
+    name: Saudi Arabia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_122
+    name: Saudi Arabia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_123
+    name: Saudi Arabia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_124
+    name: Saudi Arabia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_125
+    name: Saudi Arabia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_126
+    name: Saudi Arabia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_127
+    name: Saudi Arabia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_128
+    name: Saudi Arabia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_129
+    name: Saudi Arabia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_130
+    name: Saudi Arabia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_131
+    name: Saudi Arabia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_132
+    name: Saudi Arabia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_133
+    name: Saudi Arabia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_134
+    name: Saudi Arabia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_135
+    name: Saudi Arabia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_136
+    name: Saudi Arabia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_137
+    name: Saudi Arabia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_138
+    name: Saudi Arabia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_139
+    name: Saudi Arabia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_140
+    name: Saudi Arabia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_141
+    name: Saudi Arabia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_142
+    name: Saudi Arabia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_143
+    name: Saudi Arabia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_144
+    name: Saudi Arabia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_145
+    name: Saudi Arabia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_146
+    name: Saudi Arabia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_147
+    name: Saudi Arabia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_148
+    name: Saudi Arabia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_149
+    name: Saudi Arabia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_150
+    name: Saudi Arabia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_151
+    name: Saudi Arabia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_152
+    name: Saudi Arabia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_153
+    name: Saudi Arabia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_154
+    name: Saudi Arabia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_155
+    name: Saudi Arabia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_156
+    name: Saudi Arabia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_157
+    name: Saudi Arabia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_158
+    name: Saudi Arabia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_159
+    name: Saudi Arabia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_160
+    name: Saudi Arabia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_161
+    name: Saudi Arabia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_162
+    name: Saudi Arabia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_163
+    name: Saudi Arabia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_164
+    name: Saudi Arabia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_165
+    name: Saudi Arabia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_166
+    name: Saudi Arabia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_167
+    name: Saudi Arabia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_168
+    name: Saudi Arabia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_169
+    name: Saudi Arabia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sa_170
+    name: Saudi Arabia Agent 170
+    status: ACTIVE_SCAFFOLD

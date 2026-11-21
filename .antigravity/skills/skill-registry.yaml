@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: saudi-arabian-restitution-roadmap-and-qsf-trust-execution
-  name: Saudi Arabian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/saudi-arabian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sa_001
+    name: Saudi Arabia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_002
+    name: Saudi Arabia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_003
+    name: Saudi Arabia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_004
+    name: Saudi Arabia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_005
+    name: Saudi Arabia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_006
+    name: Saudi Arabia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_007
+    name: Saudi Arabia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_008
+    name: Saudi Arabia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_009
+    name: Saudi Arabia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_010
+    name: Saudi Arabia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_011
+    name: Saudi Arabia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_012
+    name: Saudi Arabia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_013
+    name: Saudi Arabia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_014
+    name: Saudi Arabia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_015
+    name: Saudi Arabia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_016
+    name: Saudi Arabia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_017
+    name: Saudi Arabia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_018
+    name: Saudi Arabia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_019
+    name: Saudi Arabia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_020
+    name: Saudi Arabia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_021
+    name: Saudi Arabia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_022
+    name: Saudi Arabia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_023
+    name: Saudi Arabia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_024
+    name: Saudi Arabia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_025
+    name: Saudi Arabia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_026
+    name: Saudi Arabia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_027
+    name: Saudi Arabia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_028
+    name: Saudi Arabia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_029
+    name: Saudi Arabia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_030
+    name: Saudi Arabia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_031
+    name: Saudi Arabia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_032
+    name: Saudi Arabia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_033
+    name: Saudi Arabia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_034
+    name: Saudi Arabia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_035
+    name: Saudi Arabia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_036
+    name: Saudi Arabia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_037
+    name: Saudi Arabia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_038
+    name: Saudi Arabia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_039
+    name: Saudi Arabia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_040
+    name: Saudi Arabia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_041
+    name: Saudi Arabia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_042
+    name: Saudi Arabia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_043
+    name: Saudi Arabia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_044
+    name: Saudi Arabia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_045
+    name: Saudi Arabia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_046
+    name: Saudi Arabia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_047
+    name: Saudi Arabia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_048
+    name: Saudi Arabia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_049
+    name: Saudi Arabia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_050
+    name: Saudi Arabia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_051
+    name: Saudi Arabia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_052
+    name: Saudi Arabia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_053
+    name: Saudi Arabia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_054
+    name: Saudi Arabia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_055
+    name: Saudi Arabia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_056
+    name: Saudi Arabia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_057
+    name: Saudi Arabia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_058
+    name: Saudi Arabia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_059
+    name: Saudi Arabia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_060
+    name: Saudi Arabia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_061
+    name: Saudi Arabia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_062
+    name: Saudi Arabia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_063
+    name: Saudi Arabia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_064
+    name: Saudi Arabia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_065
+    name: Saudi Arabia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_066
+    name: Saudi Arabia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_067
+    name: Saudi Arabia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_068
+    name: Saudi Arabia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_069
+    name: Saudi Arabia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_070
+    name: Saudi Arabia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_071
+    name: Saudi Arabia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_072
+    name: Saudi Arabia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_073
+    name: Saudi Arabia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_074
+    name: Saudi Arabia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_075
+    name: Saudi Arabia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_076
+    name: Saudi Arabia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_077
+    name: Saudi Arabia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_078
+    name: Saudi Arabia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_079
+    name: Saudi Arabia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_080
+    name: Saudi Arabia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_081
+    name: Saudi Arabia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_082
+    name: Saudi Arabia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_083
+    name: Saudi Arabia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_084
+    name: Saudi Arabia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_085
+    name: Saudi Arabia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_086
+    name: Saudi Arabia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_087
+    name: Saudi Arabia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_088
+    name: Saudi Arabia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_089
+    name: Saudi Arabia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_090
+    name: Saudi Arabia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_091
+    name: Saudi Arabia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_092
+    name: Saudi Arabia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_093
+    name: Saudi Arabia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_094
+    name: Saudi Arabia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_095
+    name: Saudi Arabia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_096
+    name: Saudi Arabia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_097
+    name: Saudi Arabia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_098
+    name: Saudi Arabia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_099
+    name: Saudi Arabia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_100
+    name: Saudi Arabia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_101
+    name: Saudi Arabia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_102
+    name: Saudi Arabia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_103
+    name: Saudi Arabia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_104
+    name: Saudi Arabia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_105
+    name: Saudi Arabia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_106
+    name: Saudi Arabia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_107
+    name: Saudi Arabia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_108
+    name: Saudi Arabia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_109
+    name: Saudi Arabia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_110
+    name: Saudi Arabia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_111
+    name: Saudi Arabia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_112
+    name: Saudi Arabia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_113
+    name: Saudi Arabia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_114
+    name: Saudi Arabia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_115
+    name: Saudi Arabia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_116
+    name: Saudi Arabia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_117
+    name: Saudi Arabia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_118
+    name: Saudi Arabia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_119
+    name: Saudi Arabia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_120
+    name: Saudi Arabia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_121
+    name: Saudi Arabia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_122
+    name: Saudi Arabia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_123
+    name: Saudi Arabia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_124
+    name: Saudi Arabia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_125
+    name: Saudi Arabia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_126
+    name: Saudi Arabia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_127
+    name: Saudi Arabia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_128
+    name: Saudi Arabia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_129
+    name: Saudi Arabia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_130
+    name: Saudi Arabia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_131
+    name: Saudi Arabia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_132
+    name: Saudi Arabia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_133
+    name: Saudi Arabia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_134
+    name: Saudi Arabia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_135
+    name: Saudi Arabia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_136
+    name: Saudi Arabia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_137
+    name: Saudi Arabia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_138
+    name: Saudi Arabia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_139
+    name: Saudi Arabia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_140
+    name: Saudi Arabia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_141
+    name: Saudi Arabia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_142
+    name: Saudi Arabia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_143
+    name: Saudi Arabia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_144
+    name: Saudi Arabia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_145
+    name: Saudi Arabia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_146
+    name: Saudi Arabia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_147
+    name: Saudi Arabia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_148
+    name: Saudi Arabia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_149
+    name: Saudi Arabia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_150
+    name: Saudi Arabia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_151
+    name: Saudi Arabia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_152
+    name: Saudi Arabia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_153
+    name: Saudi Arabia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_154
+    name: Saudi Arabia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_155
+    name: Saudi Arabia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_156
+    name: Saudi Arabia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_157
+    name: Saudi Arabia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_158
+    name: Saudi Arabia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_159
+    name: Saudi Arabia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_160
+    name: Saudi Arabia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_161
+    name: Saudi Arabia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_162
+    name: Saudi Arabia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_163
+    name: Saudi Arabia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_164
+    name: Saudi Arabia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_165
+    name: Saudi Arabia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_166
+    name: Saudi Arabia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_167
+    name: Saudi Arabia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_168
+    name: Saudi Arabia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_169
+    name: Saudi Arabia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_170
+    name: Saudi Arabia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_171
+    name: Saudi Arabia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_172
+    name: Saudi Arabia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_173
+    name: Saudi Arabia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_174
+    name: Saudi Arabia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_175
+    name: Saudi Arabia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_176
+    name: Saudi Arabia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_177
+    name: Saudi Arabia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_178
+    name: Saudi Arabia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_179
+    name: Saudi Arabia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_180
+    name: Saudi Arabia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_181
+    name: Saudi Arabia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_182
+    name: Saudi Arabia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_183
+    name: Saudi Arabia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_184
+    name: Saudi Arabia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_185
+    name: Saudi Arabia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_186
+    name: Saudi Arabia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_187
+    name: Saudi Arabia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_188
+    name: Saudi Arabia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_189
+    name: Saudi Arabia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_190
+    name: Saudi Arabia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_191
+    name: Saudi Arabia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_192
+    name: Saudi Arabia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_193
+    name: Saudi Arabia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_194
+    name: Saudi Arabia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_195
+    name: Saudi Arabia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_196
+    name: Saudi Arabia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_197
+    name: Saudi Arabia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_198
+    name: Saudi Arabia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_199
+    name: Saudi Arabia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_200
+    name: Saudi Arabia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_201
+    name: Saudi Arabia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_202
+    name: Saudi Arabia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_203
+    name: Saudi Arabia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_204
+    name: Saudi Arabia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_205
+    name: Saudi Arabia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_206
+    name: Saudi Arabia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_207
+    name: Saudi Arabia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_208
+    name: Saudi Arabia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_209
+    name: Saudi Arabia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_210
+    name: Saudi Arabia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_211
+    name: Saudi Arabia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_212
+    name: Saudi Arabia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_213
+    name: Saudi Arabia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_214
+    name: Saudi Arabia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_215
+    name: Saudi Arabia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_216
+    name: Saudi Arabia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_217
+    name: Saudi Arabia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_218
+    name: Saudi Arabia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_219
+    name: Saudi Arabia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_220
+    name: Saudi Arabia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_221
+    name: Saudi Arabia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_222
+    name: Saudi Arabia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_223
+    name: Saudi Arabia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_224
+    name: Saudi Arabia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_225
+    name: Saudi Arabia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_226
+    name: Saudi Arabia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_227
+    name: Saudi Arabia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_228
+    name: Saudi Arabia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_229
+    name: Saudi Arabia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_230
+    name: Saudi Arabia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_231
+    name: Saudi Arabia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_232
+    name: Saudi Arabia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_233
+    name: Saudi Arabia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_234
+    name: Saudi Arabia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_235
+    name: Saudi Arabia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_236
+    name: Saudi Arabia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_237
+    name: Saudi Arabia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_238
+    name: Saudi Arabia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_239
+    name: Saudi Arabia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_240
+    name: Saudi Arabia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_241
+    name: Saudi Arabia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_242
+    name: Saudi Arabia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_243
+    name: Saudi Arabia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_244
+    name: Saudi Arabia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_245
+    name: Saudi Arabia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_246
+    name: Saudi Arabia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_247
+    name: Saudi Arabia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_248
+    name: Saudi Arabia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_249
+    name: Saudi Arabia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_250
+    name: Saudi Arabia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_251
+    name: Saudi Arabia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sa_252
+    name: Saudi Arabia Skill 252
+    status: ACTIVE_SCAFFOLD
