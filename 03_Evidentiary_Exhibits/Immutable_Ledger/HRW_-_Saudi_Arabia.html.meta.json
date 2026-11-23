@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/middle-east/north-africa/saudi-arabia",
+  "final_url": "https://www.hrw.org/middle-east/north-africa/saudi-arabia",
+  "title": "HRW - Saudi Arabia",
+  "fetched_at": "2026-11-23T15:26:30.093582Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 205313,
+  "sha256": "ae93b8f647d64c3737894b3e1efedf4a78980993ab46baacceed8a4e4d517c07",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
